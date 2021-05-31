@@ -1,4 +1,5 @@
 # Recursive function to return gcd of a and b
+print("hello world"
 def gcd(a, b):
 
 	# Everything divides 0
