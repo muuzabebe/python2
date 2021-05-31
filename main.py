@@ -1,6 +1,9 @@
 # Recursive function to return gcd of a and b
+
+print("this is my first project")
 print("hello world"
 def gcd(a, b):
+
 
 	# Everything divides 0
 	if (a == 0):
